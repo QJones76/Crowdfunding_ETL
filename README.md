@@ -16,5 +16,5 @@ From the two starter files we were able to create four different csv files for l
 
 ## Load
 ---
-After having all csv files ready for importation, we used QuickDBD to create the following table schema: ![Schema of Crowdfunding Database](data_output/crowdfunding_db_ERD)
+After having all csv files ready for importation, we used QuickDBD to create the following table schema: ![Schema of Crowdfunding Database](https://github.com/QJones76/Crowdfunding_ETL/blob/main/data_output/crowdfunding_db_ERD.png)
 We exported the code, created a database, created the four different tables, and loaded the csv files into the database. Then we checked to make sure our tables populated correctly. The output of the four tables is in the 'PostgreSQL table screenshots' folder. 
